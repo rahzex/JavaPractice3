@@ -8,7 +8,7 @@ public class matrixAdd {
         int sum[][] = new int[row][col];
         for(int i=0; i<row; i++){
             for(int k=0; k<col; k++){
-                sum[i][k] = mat1[i][k] + mat2[i][k];
+                sum[i][k] = mat1[i][k] + mat2[i][k];   // Matrix addition
             }
         }
 

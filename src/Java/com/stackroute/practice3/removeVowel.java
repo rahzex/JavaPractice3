@@ -14,7 +14,7 @@ public class removeVowel {
                     || places[i].contains("i")
                     || places[i].contains("o")
                     || places[i].contains("u")){
-                places[i] = places[i].replaceAll("A|E|I|O|U|a|e|i|o|u","");
+                places[i] = places[i].replaceAll("A|E|I|O|U|a|e|i|o|u",""); //replacing all the vowels
                 }
         }
         return places;
