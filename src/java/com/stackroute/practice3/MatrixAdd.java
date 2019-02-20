@@ -9,7 +9,7 @@ package com.stackroute.practice3;
 //        Input the elements of second matrix: 9 8 7 6 5 4
 
 public class MatrixAdd {
-
+    //method to add to Matrices
     static int[][] addMatrix (int[][] mat1,int[][] mat2,int col,int row){
         int sum[][] = new int[row][col];
         for(int i=0; i<row; i++){

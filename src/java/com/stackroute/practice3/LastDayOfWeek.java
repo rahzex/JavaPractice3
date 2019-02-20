@@ -5,7 +5,9 @@ package com.stackroute.practice3;
 //        First Date of Week: Mon 24/07/2017
 //        Last date of the week: Sun 30/07/2017
 
+
 public class LastDayOfWeek {
+    //method to find last date of the week
     static String findLastDate(int dd,int mm,int yyyy){
         int lastDay = dd + 6;
         int month = mm;

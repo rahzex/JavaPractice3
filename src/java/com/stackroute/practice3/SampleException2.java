@@ -5,6 +5,7 @@ package com.stackroute.practice3;
 //        displaying the message stored in the exception object.
 
 public class SampleException2 {
+    //method to generate NegativeArraySizeException,IndexOutOfBoundsException,NullPointerException
     public static void main(String[] args) {
         int[] arr2 = new int[5];
 

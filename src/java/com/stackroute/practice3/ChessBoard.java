@@ -14,6 +14,7 @@ package com.stackroute.practice3;
 //        BB|WW|BB|WW|BB|WW|BB|WW|
 
 public class ChessBoard {
+    //method to generate chess board pattern
     static String[][] generateChessBoard(){
         String[][] checkBorad = new String[8][8];
         for(int i=0; i<8; i++){

@@ -8,6 +8,7 @@ import java.util.Scanner;
 //        check that the grade is between 0 and 100 else has to trow an error message.
 
 public class StudentMarks {
+    //method to check student marks
     static void checkMarks() {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter Number of Students: ");

@@ -10,6 +10,7 @@ package com.stackroute.practice3;
 //        Output: 1,2,3,4,5,6,6 non consecutive numbers
 
 public class ConsecutiveNum {
+    //method to check consecutive numbers
     static boolean checkConsecutive(String numbers){
         boolean consecutive = false, increase = false ,decrease = false;
         String[] num = numbers.split(" ");

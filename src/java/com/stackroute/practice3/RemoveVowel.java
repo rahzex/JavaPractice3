@@ -4,7 +4,7 @@ package com.stackroute.practice3;
 //        words in console
 
 public class RemoveVowel {
-
+    //method to Remove vowels from a string
     static String[] remove(String[] places){
         for(int i=0; i<places.length; i++){
             if(places[i].contains("I")

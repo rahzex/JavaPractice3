@@ -6,6 +6,7 @@ package com.stackroute.practice3;
 //        c. Add a finally clause and print a message to prove you were there.
 
 public class SampleException {
+    //method to generate ArithmaticException
     public static void main(String[] args) {
 
         try{
