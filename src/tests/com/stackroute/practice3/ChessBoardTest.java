@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class chessBoardTest {
+public class ChessBoardTest {
 
     @Before
     public void setUp() throws Exception {
@@ -26,6 +26,6 @@ public class chessBoardTest {
                                 {"BB","WW","BB","WW","BB","WW","BB","WW"},
                                 {"WW","BB","WW","BB","WW","BB","WW","BB"},
                                 {"BB","WW","BB","WW","BB","WW","BB","WW"}};
-        assertArrayEquals(expexted,chessBoard.generateChessBoard());
+        assertArrayEquals(expexted, ChessBoard.generateChessBoard());
     }
 }

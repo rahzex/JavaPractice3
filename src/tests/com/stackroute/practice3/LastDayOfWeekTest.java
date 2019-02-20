@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class lastDayOfWeekTest {
+public class LastDayOfWeekTest {
 
     @Before
     public void setUp() throws Exception {
@@ -18,8 +18,8 @@ public class lastDayOfWeekTest {
 
     @Test
     public void findLastDate() {
-        assertEquals("SUN 4/1/2020",lastDayOfWeek.findLastDate(28,12,2019));
-        assertEquals("SUN 4/2/2019",lastDayOfWeek.findLastDate(28,1,2019));
-        assertEquals("SUN 30/1/2019",lastDayOfWeek.findLastDate(24,1,2019));
+        assertEquals("SUN 4/1/2020", LastDayOfWeek.findLastDate(28,12,2019));
+        assertEquals("SUN 4/2/2019", LastDayOfWeek.findLastDate(28,1,2019));
+        assertEquals("SUN 30/1/2019", LastDayOfWeek.findLastDate(24,1,2019));
     }
 }

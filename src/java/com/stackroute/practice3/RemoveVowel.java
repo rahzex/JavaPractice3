@@ -1,6 +1,9 @@
 package com.stackroute.practice3;
 
-public class removeVowel {
+//     4. Write a program to set up an array of places, Loop round and remove the vowels. Display the new
+//        words in console
+
+public class RemoveVowel {
 
     static String[] remove(String[] places){
         for(int i=0; i<places.length; i++){

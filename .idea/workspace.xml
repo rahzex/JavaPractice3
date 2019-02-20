@@ -3,11 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="37295b8c-6c78-4fa9-a218-84aa58217eb7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/consecutiveNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/consecutiveNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/lastDayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/lastDayOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/matrixAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/matrixAdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/removeVowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/removeVowel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/chessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/consecutiveNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/ConsecutiveNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/lastDayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/LastDayOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/matrixAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/MatrixAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/removeVowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/RemoveVowel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/SampleException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/com/stackroute/practice3/SampleException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/chessBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/ChessBoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/consecutiveNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/ConsecutiveNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/lastDayOfWeekTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/LastDayOfWeekTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/matrixAddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/MatrixAddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/removeVowelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/com/stackroute/practice3/RemoveVowelTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,69 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/LastDayOfWeek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/StudentMarks.java">
+        <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/ChessBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/consecutiveNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-              <folding>
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/matrixAdd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/removeVowel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/lastDayOfWeek.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+            <state relative-caret-position="252">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -102,19 +61,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Java/matrixAdd.java" />
-        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/StudentMarks.java" />
         <option value="$PROJECT_DIR$/src/tests/matrixAddTest.java" />
         <option value="$PROJECT_DIR$/src/tests/com/stackroute/practice3/lastDayOfWeekTest.java" />
         <option value="$PROJECT_DIR$/src/tests/com/stackroute/practice3/removeVowelTest.java" />
         <option value="$PROJECT_DIR$/src/tests/com/stackroute/practice3/consecutiveNumTest.java" />
-        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/chessBoard.java" />
         <option value="$PROJECT_DIR$/src/tests/com/stackroute/practice3/chessBoardTest.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException2.java" />
         <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/removeVowel.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/matrixAdd.java" />
         <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/consecutiveNum.java" />
         <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/lastDayOfWeek.java" />
-        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/matrixAdd.java" />
-        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/removeVowel.java" />
-        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException2.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/chessBoard.java" />
+        <option value="$PROJECT_DIR$/src/Java/com/stackroute/practice3/ChessBoard.java" />
       </list>
     </option>
   </component>
@@ -128,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,6 +131,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,7 +139,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550506914792" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550658246972" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -208,9 +168,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.sampleException2">
-    <configuration name="sampleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.sampleException" />
+  <component name="RunManager" selected="Application.SampleException2">
+    <configuration name="SampleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.SampleException" />
       <module name="JavaPractice3" />
       <extension name="coverage">
         <pattern>
@@ -222,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sampleException2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.sampleException2" />
+    <configuration name="SampleException2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.SampleException2" />
       <module name="JavaPractice3" />
       <extension name="coverage">
         <pattern>
@@ -235,7 +195,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chessBoardTest.generateChessBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ChessBoardTest.generateChessBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPractice3" />
       <extension name="coverage">
         <pattern>
@@ -244,14 +204,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.practice3" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.chessBoardTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.ChessBoardTest" />
       <option name="METHOD_NAME" value="generateChessBoard" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="consecutiveNumTest.checkConsecutive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConsecutiveNumTest.checkConsecutive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPractice3" />
       <extension name="coverage">
         <pattern>
@@ -260,14 +220,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.practice3" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.consecutiveNumTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.ConsecutiveNumTest" />
       <option name="METHOD_NAME" value="checkConsecutive" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeVowelTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveVowelTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPractice3" />
       <extension name="coverage">
         <pattern>
@@ -276,7 +236,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.practice3" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.removeVowelTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practice3.RemoveVowelTest" />
       <option name="METHOD_NAME" value="remove" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -285,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sampleException2" />
-        <item itemvalue="Application.sampleException" />
-        <item itemvalue="JUnit.chessBoardTest.generateChessBoard" />
-        <item itemvalue="JUnit.consecutiveNumTest.checkConsecutive" />
-        <item itemvalue="JUnit.removeVowelTest.remove" />
+        <item itemvalue="Application.SampleException2" />
+        <item itemvalue="Application.SampleException" />
+        <item itemvalue="JUnit.ChessBoardTest.generateChessBoard" />
+        <item itemvalue="JUnit.ConsecutiveNumTest.checkConsecutive" />
+        <item itemvalue="JUnit.RemoveVowelTest.remove" />
       </list>
     </recent_temporary>
   </component>
@@ -340,8 +300,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25289574" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26254827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -398,98 +359,94 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/removeVowelTest.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/RemoveVowelTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/matrixAddTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/consecutiveNumTest.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/ConsecutiveNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="22" column="70" lean-forward="true" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/chessBoardTest.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/ChessBoardTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/chessBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/lastDayOfWeekTest.java">
+    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/LastDayOfWeekTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="22" column="76" lean-forward="true" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/lastDayOfWeek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/consecutiveNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/matrixAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/removeVowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/sampleException2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding>
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/StudentMarks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="378">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/SampleException2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/SampleException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="78" lean-forward="true" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/RemoveVowel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/MatrixAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/ConsecutiveNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/LastDayOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/com/stackroute/practice3/MatrixAddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/com/stackroute/practice3/ChessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

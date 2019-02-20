@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class consecutiveNumTest {
+public class ConsecutiveNumTest {
 
     @Before
     public void setUp() throws Exception {
@@ -18,8 +18,8 @@ public class consecutiveNumTest {
 
     @Test
     public void checkConsecutive() {
-       assertTrue(consecutiveNum.checkConsecutive("56 55 54"));
-       assertTrue(consecutiveNum.checkConsecutive("54 55 56"));
-       assertFalse(consecutiveNum.checkConsecutive("56 55 56 55 56"));
+       assertTrue(ConsecutiveNum.checkConsecutive("56 55 54"));
+       assertTrue(ConsecutiveNum.checkConsecutive("54 55 56"));
+       assertFalse(ConsecutiveNum.checkConsecutive("56 55 56 55 56"));
     }
 }

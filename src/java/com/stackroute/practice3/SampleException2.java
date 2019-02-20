@@ -1,6 +1,10 @@
 package com.stackroute.practice3;
 
-public class sampleException2 {
+//        Write a program that will generate exceptions of type NegativeArraySizeException,
+//        IndexOutOfBoundsException, NullPointerException. Record the catching of each exception by
+//        displaying the message stored in the exception object.
+
+public class SampleException2 {
     public static void main(String[] args) {
         int[] arr2 = new int[5];
 
@@ -18,7 +22,7 @@ public class sampleException2 {
             System.out.println(e);
         }
         
-        sampleException2 s2 = null;
+        SampleException2 s2 = null;
         
         try{
             s2.foo("hello");                 // Generating NullPointerException

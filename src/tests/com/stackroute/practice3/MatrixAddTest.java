@@ -1,13 +1,12 @@
 package com.stackroute.practice3;
 
-import com.stackroute.practice3.matrixAdd;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class matrixAddTest {
+public class MatrixAddTest {
 
     @Before
     public void setUp() throws Exception {
@@ -31,6 +30,6 @@ public class matrixAddTest {
                        {10, 10, 10},
                        {10, 10, 10}};
 
-        assertArrayEquals(sum, matrixAdd.addMatrix(m1,m2,3,3));
+        assertArrayEquals(sum, MatrixAdd.addMatrix(m1,m2,3,3));
     }
 }

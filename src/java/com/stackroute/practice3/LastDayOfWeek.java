@@ -1,6 +1,11 @@
 package com.stackroute.practice3;
 
-public class lastDayOfWeek {
+//3. Write a java program to calculate first and last date of a week.
+//        Output:
+//        First Date of Week: Mon 24/07/2017
+//        Last date of the week: Sun 30/07/2017
+
+public class LastDayOfWeek {
     static String findLastDate(int dd,int mm,int yyyy){
         int lastDay = dd + 6;
         int month = mm;
